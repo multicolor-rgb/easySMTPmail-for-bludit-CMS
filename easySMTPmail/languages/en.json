@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "EasySMTPmail",
+        "description": "easy to use contact form with Captcha Google uses SMTP or MailTo"
+    }
+}

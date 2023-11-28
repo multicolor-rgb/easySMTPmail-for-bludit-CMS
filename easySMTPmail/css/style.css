@@ -1,0 +1,52 @@
+.easySMTPform {
+    border: solid 1px #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.easySMTPform input,
+.easySMTPform textarea {
+    background: #fff;
+    border: solid 1px #ddd;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.easySMTPform input[type="checkbox"] {
+    all: revert;
+}
+
+.easySMTPform .g-recaptcha {
+    margin: 10px 0;
+}
+
+.easySMTPform input[type="submit"] {
+    width: auto;
+    padding: 10px 20px;
+    background: #000;
+    color: #fff;
+}
+
+
+
+.easySMTPerror {
+    width: 100%;
+    padding: 10px 15px;
+    background: red;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+
+.easySMTPsuccess {
+    width: 100%;
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    background: green;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
